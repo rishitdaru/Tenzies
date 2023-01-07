@@ -8,7 +8,7 @@ The game also displays the number of rolls. Once you win, the app displays confe
 
 # Preview:
 
-// add image here.
+![tenzi_start_middle_end_of_game](https://user-images.githubusercontent.com/65996001/211164193-86d1da68-1505-40e6-adc2-1d42bcb949bd.jpg)
 
 - The `public` directory contains the html page
 - The `src` directory contains the images and the components folder and all other js and css files.
