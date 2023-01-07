@@ -13,8 +13,8 @@ The game also displays the number of rolls. Once you win, the app displays confe
 - The `public` directory contains the html page
 - The `src` directory contains the images and the components folder and all other js and css files.
 - The project has 1 component:
-  - `Die.js`: inlcudes the header bar that displays the website title and logo
-- `App.js` then uses `Die.js` and exports the bundled component to `index.js`
+  - `Die.js`: inlcudes the dice structure and functionality to follow rules
+- `App.js` then uses `Die.js` and displays the title and the rules and exports the bundled component to `index.js`
 - `index.js` renders the page using `style.css`.
 
 ## Installation
